@@ -1,4 +1,0 @@
-baseURL = 'https://ryan-yu.com/'
-languageCode = 'en-us'
-title = 'This is a test Hugo Site'
-theme = 'ananke'
