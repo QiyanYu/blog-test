@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "All about Kian"
 
 [params]
   displayName = "EN"
@@ -14,14 +14,14 @@ title = "Blowfish"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
+[params.author]
+name = "Your name here"
+email = "youremail@example.com"
+image = "img/avator.jpg"
+imageQuality = 96
+headline = "I'm only human"
+bio = "A little bit about you"
+links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -68,7 +68,7 @@ title = "Blowfish"
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
-#     { x-twitter = "https://twitter.com/username" },
+{ x-twitter = "https://https://x.com/Yu08516687" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
